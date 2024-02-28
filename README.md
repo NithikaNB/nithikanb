@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nithika Bandara</h1>
 
-<img align="right" alt="Coding" width="400" 
 
 <p align="left"> <a href="https://twitter.com/nithikanb" target="blank"><img src="https://img.shields.io/twitter/follow/nithikanb?logo=twitter&style=for-the-badge" alt="nithikanb" /></a> </p>
 
